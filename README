@@ -1,0 +1,8 @@
+HashBang-ParrotScript will install a binary executable called
+parrotscript on your system. This allows you to start your Parrot
+Assembler program with:
+
+    #!/usr/bin/parrotscript
+
+You need to build parrot for this to work. Go to http://parrotcode.org
+for the details.
